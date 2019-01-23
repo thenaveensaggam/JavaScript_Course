@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+nav{
+    background-color: orange;
+    padding: 10px;
+    box-shadow: 0 0 15px black;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 20px;
+}
