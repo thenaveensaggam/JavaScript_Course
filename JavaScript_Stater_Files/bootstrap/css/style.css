@@ -1,0 +1,12 @@
+/* Your custom styles */
+.bg-teal{
+    background-color: teal;
+}
+.btn{
+    font-size: 30px;
+    padding: 0.1rem 1.5rem;
+}
+input{
+    font-size: 18px;
+    height: 45px !important;
+}
