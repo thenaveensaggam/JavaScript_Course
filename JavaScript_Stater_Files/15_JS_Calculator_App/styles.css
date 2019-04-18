@@ -1,0 +1,37 @@
+/* Your custom styles */
+.card{
+    box-shadow: 0 0 10px #124242;
+    border-radius: 10px;
+}
+.card .card-header{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.form-control{
+    border: 1px solid #124242;
+    outline: none;
+}
+.form-control:focus{
+    box-shadow: 0 0 5px black !important;
+}
+.bg-teal , .btn-teal{
+    background: linear-gradient(45deg,black,teal) !important;
+}
+.btn-danger{
+    background: linear-gradient(45deg,black,red) !important;
+}
+.btn-success{
+    background: linear-gradient(45deg,black,forestgreen) !important;
+}
+.btn{
+    font-size: 30px;
+    padding: 0.1rem 1.5rem;
+    border-radius: 10px;
+}
+input{
+    font-size: 18px;
+    height: 45px !important;
+}
+.c_header{
+    background: linear-gradient(45deg,black,teal);
+}
